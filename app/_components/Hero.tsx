@@ -17,7 +17,7 @@ function LandingPage() {
             <button className='rounded-md bg-black px-5 py-2.5 text-sm font-medium text-white transition hover:bg-gray-800'>
               Discover More
             </button>
-            <button className='rounded-md bg-black px-5 py-2.5 text-sm font-medium text-white transition hover:bg-gray-800'><RegisterLink>Register</RegisterLink></button>
+            <button className='rounded-md bg-black px-5 py-2.5 text-sm font-medium text-white transition hover:bg-gray-800'><RegisterLink>Get Started</RegisterLink></button>
           </div>
         </div>
       </section>
